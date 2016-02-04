@@ -7,12 +7,12 @@ E:\Personal\Encrypt\Encrypt\obj\x86\Debug\Encrypt.csproj.GenerateResource.Cache
 E:\Personal\Encrypt\Encrypt\obj\x86\Debug\Encrypt.exe
 E:\Personal\Encrypt\Encrypt\obj\x86\Debug\Encrypt.pdb
 E:\Personal\Encrypt Code\Encrypt\Encrypt\bin\Debug\Encrypt.exe.config
-E:\Personal\Encrypt Code\Encrypt\Encrypt\obj\x86\Debug\Encrypt.exe
-E:\Personal\Encrypt Code\Encrypt\Encrypt\obj\x86\Debug\Encrypt.pdb
 E:\Personal\Encrypt Code\Encrypt\Encrypt\bin\Debug\Encrypt.exe
 E:\Personal\Encrypt Code\Encrypt\Encrypt\bin\Debug\Encrypt.pdb
+E:\Personal\Encrypt Code\Encrypt\Encrypt\bin\Debug\IrisSkin2.dll
+E:\Personal\Encrypt Code\Encrypt\Encrypt\obj\x86\Debug\Encrypt.csprojResolveAssemblyReference.cache
 E:\Personal\Encrypt Code\Encrypt\Encrypt\obj\x86\Debug\Encrypt.Main.resources
 E:\Personal\Encrypt Code\Encrypt\Encrypt\obj\x86\Debug\Encrypt.Properties.Resources.resources
 E:\Personal\Encrypt Code\Encrypt\Encrypt\obj\x86\Debug\Encrypt.csproj.GenerateResource.Cache
-E:\Personal\Encrypt Code\Encrypt\Encrypt\bin\Debug\IrisSkin2.dll
-E:\Personal\Encrypt Code\Encrypt\Encrypt\obj\x86\Debug\Encrypt.csprojResolveAssemblyReference.cache
+E:\Personal\Encrypt Code\Encrypt\Encrypt\obj\x86\Debug\Encrypt.exe
+E:\Personal\Encrypt Code\Encrypt\Encrypt\obj\x86\Debug\Encrypt.pdb

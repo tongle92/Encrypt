@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Main));
             this.UnEncryptlbl = new System.Windows.Forms.Label();
             this.UnEncrypttxt = new System.Windows.Forms.TextBox();
             this.Encrypttxt = new System.Windows.Forms.TextBox();
@@ -158,6 +159,7 @@
             this.Controls.Add(this.Encryptlbl);
             this.Controls.Add(this.UnEncrypttxt);
             this.Controls.Add(this.UnEncryptlbl);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Main";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "加密解密";

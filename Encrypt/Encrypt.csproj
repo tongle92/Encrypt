@@ -34,6 +34,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icon\icon.ico</ApplicationIcon>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="IrisSkin2">
       <HintPath>lib\IrisSkin2.dll</HintPath>
@@ -90,6 +93,8 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
+    <Content Include="icon\icon.ico" />
+    <Content Include="icon\icon.png" />
     <Content Include="lib\System.Web.dll" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
