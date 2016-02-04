@@ -12,9 +12,13 @@ namespace Encrypt
 {
     public partial class Main : Form
     {
+        
         public Main()
         {
             InitializeComponent();
+            Sunisoft.IrisSkin.SkinEngine se = new Sunisoft.IrisSkin.SkinEngine();
+            se.SkinAllForm = true;//所有窗体应用此皮肤
+            se.SkinFile = @"..\..\skin\MSN.ssk";
         }
 
         /// <summary>
